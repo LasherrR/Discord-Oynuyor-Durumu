@@ -21,7 +21,7 @@
 - Sol üstte **“APPLICATION ID”** yazan kısım: işte bu bizim clientId!
 
 ```js
-const clientId = '1388885753366581278'; // <-- BURAYI KENDİ Application ID'n ile değiştir!
+const clientId = '123456789'; // <-- BURAYI KENDİ Application ID'n ile değiştir!
 ```
 
 
