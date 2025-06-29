@@ -28,6 +28,10 @@ const clientId = '123456789'; // <-- BURAYI KENDİ Application ID'n ile değişt
 # 📂 Kurulum
 
 ```bash
+npm install
+````
+
+```bash
 npm start
 ```
 
