@@ -53,11 +53,11 @@ Projeyle ilgili sorunlar veya öneriler için lütfen [Discord](discord.gg/altya
 
 # 🧽 Sık Sorulan Sorular (SSS)
 ❓ **Neden “neva” resmi gözükmüyor?**
-✔️ Discord Developer Portal’da “Art Assets” kısmına neva adında resim yükledin mi?
+- Discord Developer Portal’da “Art Assets” kısmına neva adında resim yükledin mi?
 
 ❓ **Kodu değiştirdim ama Discord’daki durum güncellenmedi?**
-✔️ Terminali durdurup tekrar npm start yap. Değişiklikler o zaman yansır.
+- Terminali durdurup tekrar npm start yap. Değişiklikler o zaman yansır.
 
 ❓ **Sistem hep açık mı kalmalı?**
-✔️ Evet, sistem çalışırken terminal kapanmamalı.
+- Evet, sistem çalışırken terminal kapanmamalı.
 İstersen bunu .exe haline getirip otomatik çalışmasını sağlayabiliriz.
