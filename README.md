@@ -5,12 +5,11 @@
 ---
 
 ## 🚀 Nasıl Kurulur? (Adım Adım Anlatım)
-・Gereksinimler: Windows 10 veya 11
-・Node.js (v16 veya üzeri)
-・Discord uygulaması (açık olmalı)
-・Visual Studio Code (tavsiye edilir)
+- Gereksinimler: Windows 10 veya 11
+- Node.js (v16 veya üzeri)
+- Discord uygulaması (açık olmalı)
+- Visual Studio Code (tavsiye edilir)
 
----
 
 ## 🏗️ Discord Application ID (Client ID) Nasıl Alınır?
 - Discord Developer Portal adresine gir.
@@ -25,36 +24,34 @@
 const clientId = '1388885753366581278'; // <-- BURAYI KENDİ Application ID'n ile değiştir!
 ```
 
---- 
 
-## 📂 Kurulum
+# 📂 Kurulum
 
 ```bash
 npm start
 ```
 
----
 
-## 🔧 Dosya Yapısı
+# 🔧 Dosya Yapısı
 ```
-- 📁 discord-oynuyor/
-- 📄 index.js
-- 📄 package-lock.json
-- 📄 package.json
+- 📁 discord-oynuyor/          → Tüm dosyalar
+- 📄 index.js                  → Ana çalıştırılacak dosya
+- 📄 package-lock.json         → Çalıştırma komutlarını içerir
+- 📄 package.json              → Çalıştırma komutlarını içerir
 ```
----
 
-## 💻 Geliştirici
+
+# 💻 Geliştirici
 Bu altyapı Neva Development tarafından geliştirilmiştir. Projeyi beğendiyseniz ⭐ vererek destek olabilirsiniz!
 
-## 📜 Lisans
+# 📜 Lisans
 MIT Lisansı – Tamamen açık kaynak ve özelleştirilebilir.
 
-## 📞 İletişim
+# 📞 İletişim
 Projeyle ilgili sorunlar veya öneriler için lütfen [Discord](discord.gg/altyapi) sunucumuza katılın veya bizimle iletişime geçin. (discord.gg/altyapi)
 
 
-## 🧽 Sık Sorulan Sorular (SSS)
+# 🧽 Sık Sorulan Sorular (SSS)
 ❓ **Neden “neva” resmi gözükmüyor?**
 ✔️ Discord Developer Portal’da “Art Assets” kısmına neva adında resim yükledin mi?
 
