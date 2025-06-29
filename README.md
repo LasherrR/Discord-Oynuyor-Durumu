@@ -2,6 +2,7 @@
 
 **Neva Development** - Discord Oynuyor Sistemi, Discord'da kendi profilinizin **“Oynuyor”** bölümüne özel yazılar, butonlar ve resimler eklemenizi sağlar.
 
+---
 
 ## 🚀 Nasıl Kurulur? (Adım Adım Anlatım)
 ・Gereksinimler: Windows 10 veya 11
@@ -9,18 +10,22 @@
 ・Discord uygulaması (açık olmalı)
 ・Visual Studio Code (tavsiye edilir)
 
+---
+
 ## 🏗️ Discord Application ID (Client ID) Nasıl Alınır?
-・Discord Developer Portal adresine gir.
-・Discord hesabınla giriş yap.
-・**“New Application”** butonuna tıkla.
-・Uygulamaya bir isim ver **(örn: Neva Oynuyor)**
-・Oluştur dedikten sonra, sol menüden **"Rich Presence"** > "Art Assets" kısmına gel.
-・“neva” isminde bir PNG resim yükle. **(örn: logonuz)**
-・Sol üstte **“APPLICATION ID”** yazan kısım: işte bu bizim clientId!
+- Discord Developer Portal adresine gir.
+- Discord hesabınla giriş yap.
+- **“New Application”** butonuna tıkla.
+- Uygulamaya bir isim ver **(örn: Neva Oynuyor)**
+- Oluştur dedikten sonra, sol menüden **"Rich Presence"** > "Art Assets" kısmına gel.
+- “neva” isminde bir PNG resim yükle. **(örn: logonuz)**
+- Sol üstte **“APPLICATION ID”** yazan kısım: işte bu bizim clientId!
 
 ```js
 const clientId = '1388885753366581278'; // <-- BURAYI KENDİ Application ID'n ile değiştir!
 ```
+
+--- 
 
 ## 📂 Kurulum
 
@@ -28,13 +33,16 @@ const clientId = '1388885753366581278'; // <-- BURAYI KENDİ Application ID'n il
 npm start
 ```
 
+---
+
 ## 🔧 Dosya Yapısı
 ```
-・📁 discord-oynuyor/
-・📄 index.js
-・📄 package-lock.json
-・📄 package.json
+- 📁 discord-oynuyor/
+- 📄 index.js
+- 📄 package-lock.json
+- 📄 package.json
 ```
+---
 
 ## 💻 Geliştirici
 Bu altyapı Neva Development tarafından geliştirilmiştir. Projeyi beğendiyseniz ⭐ vererek destek olabilirsiniz!
