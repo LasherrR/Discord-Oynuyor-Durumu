@@ -26,7 +26,11 @@ const clientId = '123456789'; // <-- BURAYI KENDİ Application ID'n ile değişt
 
 
 # 📂 Kurulum
-
+Gerekli Modülleri İndirelim
+```bash
+npm install discord-rpc
+```
+Başlatalım
 ```bash
 npm start
 ```
