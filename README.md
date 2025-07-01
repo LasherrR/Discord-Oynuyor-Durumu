@@ -64,4 +64,3 @@ Projeyle ilgili sorunlar veya öneriler için lütfen [Discord](discord.gg/altya
 
 ❓ **Sistem hep açık mı kalmalı?**
 ✔️ Evet, sistem çalışırken terminal kapanmamalı.
-İstersen bunu .exe haline getirip otomatik çalışmasını sağlayabiliriz.
